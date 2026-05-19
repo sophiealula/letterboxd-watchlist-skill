@@ -1,0 +1,13 @@
+# auth & secrets — NEVER commit these
+.letterboxd-api.json
+*.flows
+*.env
+.env*
+
+# editor/OS junk
+.DS_Store
+.vscode/
+.idea/
+
+# node
+node_modules/
